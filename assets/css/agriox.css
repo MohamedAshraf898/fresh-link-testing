@@ -9853,6 +9853,11 @@ Sidebar
   }
   .providing-quality-one__content-box-list-item .text {
     padding-left: 25px;
+    
+  }
+  .providing-quality-one__content-box-list-item .text h3{
+    padding-left: 25px;
+    font-size: 18px !important;
   }
   .providing-quality-one__content-box .sec-title__title {
     font-size: 38px;
